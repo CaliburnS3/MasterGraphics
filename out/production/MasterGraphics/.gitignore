@@ -1,10 +1,6 @@
 /Canvas$CanvasPane.class
 /Canvas.class
 /CanvasHost.class
-/GUI$1.class
-/GUI$2.class
-/GUI$3.class
-/GUI$4.class
 /GUI.class
 /NodeMap$Node.class
 /NodeMap.class
@@ -12,3 +8,7 @@
 /ShapeGeneration.class
 /Spirograph.class
 /doubleCircle.class
+/GUI$1.class
+/GUI$2.class
+/GUI$3.class
+/GUI$4.class

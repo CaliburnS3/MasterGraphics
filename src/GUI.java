@@ -28,8 +28,8 @@
  * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
-import sun.print.ServiceDialog;
-import sun.security.provider.ConfigFile;
+//import sun.print.ServiceDialog;
+//import sun.security.provider.ConfigFile;
 
 import java.awt.*;
 import java.awt.event.*;
